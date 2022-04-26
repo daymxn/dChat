@@ -4,7 +4,7 @@
 </p>
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/daymxn/dChat?style=flat-square)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/dChat/master?style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/dChat/main?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/daymxn/dChat?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/daymxn/dChat?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/daymxn/dChat?style=flat-square)
